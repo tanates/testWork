@@ -1,0 +1,7 @@
+C:\Users\timur\source\repos\testWork\testWork\obj\Debug\testWork.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\testWork\testWork\obj\Debug\testWork.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\testWork\testWork\bin\Debug\testWork.exe.config
+C:\Users\timur\source\repos\testWork\testWork\bin\Debug\testWork.exe
+C:\Users\timur\source\repos\testWork\testWork\bin\Debug\testWork.pdb
+C:\Users\timur\source\repos\testWork\testWork\obj\Debug\testWork.exe
+C:\Users\timur\source\repos\testWork\testWork\obj\Debug\testWork.pdb
